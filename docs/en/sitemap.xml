@@ -180,6 +180,18 @@
                 href="https://osunaluis.github.io/blog/about/"
                 />
   </url><url>
+    <loc>https://osunaluis.github.io/blog/docs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://osunaluis.github.io/blog/pt/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://osunaluis.github.io/blog/docs/"
+                />
+  </url><url>
     <loc>https://osunaluis.github.io/blog/tags/index/</loc>
   </url>
 </urlset>

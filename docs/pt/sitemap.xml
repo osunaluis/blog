@@ -146,5 +146,17 @@
                 hreflang="pt"
                 href="https://osunaluis.github.io/blog/pt/about/"
                 />
+  </url><url>
+    <loc>https://osunaluis.github.io/blog/pt/docs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://osunaluis.github.io/blog/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://osunaluis.github.io/blog/pt/docs/"
+                />
   </url>
 </urlset>
